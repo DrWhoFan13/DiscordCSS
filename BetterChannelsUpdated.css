@@ -9,3 +9,7 @@
     width: var(--channel-max)!important;
     padding-left: initial!important;
 }
+/*Required CSS
+:root {
+    --channel-mini: 36px;
+    --channel-max: 240px; /* normal channel list size }*/
