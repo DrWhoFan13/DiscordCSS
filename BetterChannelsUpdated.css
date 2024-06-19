@@ -1,10 +1,10 @@
 /* fuck you discord */
-.sidebar_e031be {
+.sidebar_a4d4d9 {
     width: 0px!important;
     padding-left: var(--channel-mini)!important;
     transition: all 0.4s;
 }
-.sidebar_e031be:hover {
+.sidebar_a4d4d9:hover {
     transition-delay: 0s;
     width: var(--channel-max)!important;
     padding-left: initial!important;
