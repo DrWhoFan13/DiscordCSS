@@ -1,11 +1,9 @@
 /**
  * @name BetterSpotifyPlayer Updated
  * @description Makes Spotify Player looks nicer
- *
- */
 
-/* BetterSpotifyPlayer */
-/* a spotify icon snippet */
+BetterSpotifyPlayer
+a spotify icon snippet */
 #vc-spotify-song-title::before,
 #vc-spotify-song-title + div::before,
 #vc-spotify-song-title + div + div::before {
