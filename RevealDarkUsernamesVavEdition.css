@@ -12,7 +12,7 @@
 [style^="color: rgb(10, 1, 2);"], /* sewerperson owner black */
 [style^="color: rgb(0, 0, 1);"], /* sewerperson admin black */
 [style^="color: rgb(9, 8, 8);"], /* xona loha black */
-[style^="color: rgb(12, 12, 12);"] /* xona crescent black */
+[style^="color: rgb(12, 12, 12);"], /* xona crescent black */
 [style^="color: rgb(24, 18, 39);"] /* Sharpedge's role */
 {
     [class*=username_]& {
