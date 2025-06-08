@@ -13,8 +13,7 @@
 [style^="color: rgb(0, 0, 1);"], /* sewerperson admin black */
 [style^="color: rgb(9, 8, 8);"], /* xona loha black */
 [style^="color: rgb(12, 12, 12);"], /* xona crescent black */
-[style^="color: rgb(24, 18, 39);"] /* Sharpedge's role */
-{
+[style^="color: rgb(24, 18, 39);"] /* Sharpedge's role */{
     [class*=username_]& {
         [id^=chat-messages]:hover &, /* chat messages */
         [class^=member_]:hover & /* members list */ {
